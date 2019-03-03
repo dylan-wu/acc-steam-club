@@ -1,0 +1,15 @@
+{
+  "name": "acc-steam-club",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dylan-wu/acc-steam-club.git",
+  "author": "EdgeKaos <edgekaos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.42"
+  }
+}
